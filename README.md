@@ -10,4 +10,4 @@ I'm a full stack developer who is currently doing Bachelors in Computer Science 
 [<img align="left" alt="Manjot Sidhu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](telegram)
 <br>
 
-[![thagoo github stats](https://github-readme-stats.vercel.app/api?username=manjotsidhu&show_icons=true&hide_border=true)](https://github.com/manjotsidhu)
+[![thagoo github stats](https://github-readme-stats.vercel.app/api?username=manjotsidhu&show_icons=true)](https://github.com/manjotsidhu)
