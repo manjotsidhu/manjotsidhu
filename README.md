@@ -4,8 +4,9 @@ I'm a full stack developer who is currently doing Bachelors in Computer Science 
 
 ### Connect with me:
 
-[<img align="left" alt="Manjot Sidhu | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://manjotsidhu.com)
-[<img align="left" alt="Manjot Sidhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/manjotsinghsidhu)
-[<img align="left" alt="Manjot Sidhu | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:manjot.techie@gmail.com)
-[<img align="left" alt="Manjot Sidhu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](telegram)
+[<img align="left" alt="Manjot Sidhu | Website" width="32px" src="icons/Gmail.png" />](mailto:manjot.techie@gmail.com)
+[<img align="left" alt="Manjot Sidhu | LinkedIn" width="32px" src="icons/LinkedIN.png" />](https://linkedin.com/in/manjotsinghsidhu)
+[<img align="left" alt="Manjot Sidhu | PayPal" width="32px" src="icons/PayPal.png" />](https://www.paypal.me/manjotsidhuTechie)
+[<img align="left" alt="Manjot Sidhu | Telegram" width="32px" src="icons/Telegram.png" />](https://t.me/manjotsidhu)
+[<img align="left" alt="Manjot Sidhu | Twitter" width="32px" src="icons/Twitter.png" />](https://twitter.com/ManjotTechie)
 <br>
