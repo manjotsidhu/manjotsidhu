@@ -1,12 +1,28 @@
-### Hi, I'm Manjot Singh Sidhu 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=manjotsidhu.manjotsidhu">
 
-I'm a full stack developer who is currently doing Bachelors in Computer Science and Engineering. I am co-founder of [PitchBlackRecoveryProject](https://github.com/PitchBlackRecoveryProject) which aims to provide the best Android recovery.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Manjot+Sidhu....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-### Connect with me:
-
-[<img align="left" alt="Manjot Sidhu | Website" width="32px" src="icons/Gmail.png" />](mailto:manjot.techie@gmail.com)
-[<img align="left" alt="Manjot Sidhu | LinkedIn" width="32px" src="icons/LinkedIN.png" />](https://linkedin.com/in/manjotsinghsidhu)
-[<img align="left" alt="Manjot Sidhu | PayPal" width="32px" src="icons/PayPal.png" />](https://www.paypal.me/manjotsidhuTechie)
-[<img align="left" alt="Manjot Sidhu | Telegram" width="32px" src="icons/Telegram.png" />](https://t.me/manjotsidhu)
-[<img align="left" alt="Manjot Sidhu | Twitter" width="32px" src="icons/Twitter.png" />](https://twitter.com/ManjotTechie)
-<br>
+<p align="center">
+  <code>
+    <a href="mailto:manjot.techie@gmail.com" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Gmail.png"> Gmail</a></code>
+    <code><a href="https://linkedin.com/in/manjotsinghsidhu" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/LinkedIN.png"> LinkedIn</a></code>
+    <code><a href="https://t.me/manjotsidhu" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Telegram.png"> Telegram</a></code>
+    <code><a href="https://twitter.com/ManjotTechie" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Twitter.png"> Twitter</a></code>
+</p>
+<br />
+<p align="center">
+Hi, I'm Manjot Singh Sidhu, Full Stack Developer from India
+  <br>
+  <br>
+  🏟 I'm currently studying Bachelors in Computer Science and Engineering at Christ University.
+  <br>
+  👓 I'm a fast learner and always looking forward to learn new technologies.
+  <br>
+  ☀ Currently enrolled in Google Summer of Code 2021 @ <a href="https://github.com/CircuitVerse">CircuitVerse</a>.
+  <br>
+  ❤ Leading the development of an Open-Source Project <a href="https://github.com/PitchBlackRecoveryProject">PitchBlackRecoveryProject</a>.
+</p>
