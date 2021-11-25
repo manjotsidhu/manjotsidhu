@@ -22,7 +22,7 @@ Hi, I'm Manjot Singh Sidhu, Full Stack Developer from India
   <br>
   👓 I'm a fast learner and always looking forward to learn new technologies.
   <br>
-  ☀ Currently enrolled in Google Summer of Code 2021 @ <a href="https://github.com/CircuitVerse">CircuitVerse</a>.
+  ☀ Google Summer of Code 2021 @ <a href="https://github.com/CircuitVerse">CircuitVerse</a>.
   <br>
   ❤ Leading the development of an Open-Source Project <a href="https://github.com/PitchBlackRecoveryProject">PitchBlackRecoveryProject</a>.
 </p>
