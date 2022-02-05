@@ -18,7 +18,7 @@
 Hi, I'm Manjot Singh Sidhu, Full Stack Developer from India
   <br>
   <br>
-  🏟 I'm currently studying Bachelors in Computer Science and Engineering at Christ University.
+ 👁️‍🗨️ I'm currently an Intern @ IBM ISL and pursuing Bachelors in Computer Science and Engineering at Christ University.
   <br>
   👓 I'm a fast learner and always looking forward to learn new technologies.
   <br>
