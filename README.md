@@ -18,7 +18,7 @@
 Hi, I'm Manjot Singh Sidhu, Full Stack Developer from India
   <br>
   <br>
- 👁️‍🗨️ I'm currently an Intern @ IBM ISL and pursuing Bachelors in Computer Science and Engineering at Christ University.
+ 👁️‍🗨️ Software Developer at IBM India Software Labs working on IBM Cloud & IBM Cloud Pak for Data.
   <br>
   👓 I'm a fast learner and always looking forward to learn new technologies.
   <br>
