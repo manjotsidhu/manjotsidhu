@@ -7,7 +7,6 @@
 </h1>
 
 <p align="center">
-  <code>
     <code><a href="https://linkedin.com/in/manjotsinghsidhu" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/LinkedIN.png"> LinkedIn</a></code>
     <code><a href="https://t.me/manjotsidhu" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Telegram.png"> Telegram</a></code>
     <code><a href="https://twitter.com/ManjotTechie" title="Gmail"><img width="22" src="https://github.com/manjotsidhu/manjotsidhu/blob/master/icons/Twitter.png"> Twitter</a></code>
